@@ -1,5 +1,4 @@
-### Hi there 👋
-# Im Maria Antonieta
+# I'm Maria Antonieta
 
 <h2 align="left">  About Me: </h2>
 
@@ -18,7 +17,7 @@ const aboutMe = {
 
 <!--
 **Marianto38/Marianto38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 👩‍💻 Frontend Developer

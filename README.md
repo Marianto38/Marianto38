@@ -18,9 +18,47 @@ Here are some ideas to get you started:
   <tr>
     <td align="center" width="96">
       <a href="">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjE0wGoV_PZD6SytASwVO9418mGP2N5WFphg&usqp=CAU" width="48" height="48" alt="RUBY" />
+      </a>
+      <br>RUBY
+    </td>
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYn8qF_0j9RB9yJBoJ62s0Z29wfGeTWw4l9Q&usqp=CAU" width="48" height="48" alt="RUBY" />
+      </a>
+      <br>RAILS
+    </td>
+       <td align="center" width="96">
+      <a href="">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHbuCfoFhRLwAMVysxRh0R-JZiaC37snDsbg&usqp=CAU" width="48" height="48" alt="JAVASCRIPT" />
+      </a>
+      <br>JAVASCRIPT
+    </td>
+    <td align="center" width="96">
+      <a href="">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzcf53SSem7c2G_8CDuUXBmLQN9IKOOYGSuA&usqp=CAU" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML
+    </td>
+      <td align="center" width="96">
+      <a href="">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDy7gsOb32vKJRJfCC2fg92r61HRG_jm164A&usqp=CAU" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS
+    </td>
+    </td>
+      <td align="center" width="96">
+      <a href="">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI_rrsGCcApPxfUQBskEilllhRGaocM_CrFQ&usqp=CAU" width="48" height="48" alt="BOOTSTRAP" />
+      </a>
+      <br>BOOTSTRAP
+    </td>
+        </td>
+      <td align="center" width="96">
+      <a href="">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="48" height="48" alt="FIGMA" />
+      </a>
+      <br>FIGMA
     </td>
   </tr>
   

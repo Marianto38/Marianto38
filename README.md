@@ -1,5 +1,10 @@
 ### Hi there 👋
 # Im Maria Antonieta
+
+- 👩‍💻 I'm Frontend Developer
+- 🌱 I’m currently learning React
+
+
 <!--
 **Marianto38/Marianto38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +19,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <table>
   <tr>
     <td align="center" width="96">
@@ -60,7 +67,17 @@ Here are some ideas to get you started:
       </a>
       <br>FIGMA
     </td>
+        </td>
+        </td>
+      <td align="center" width="96">
+      <a href="">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgXuvs0B0-FaI0iAfDKxZk-W2kqDIPHMnqQw&usqp=CAU" width="48" height="48" alt="POSTGRES" />
+      </a>
+      <br>POSTGRES
+    </td>
   </tr>
   
   </tr>
 </table>
+
+[![Linkedin Badge](https://img.shields.io/badge/-mariantonieta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariaantonietapereira/)](https://www.linkedin.com/in/mariaantonietapereira/)

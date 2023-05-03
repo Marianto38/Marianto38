@@ -1,14 +1,30 @@
 ### Hi there 👋
 # Im Maria Antonieta
 
-- 👩‍💻 I'm Frontend Developer
-- 🌱 I’m currently learning React
+<h2 align="left">  About Me: </h2>
+
+```javascript
+const aboutMe = {
+  iAm: "Fullstack Web Developer",
+  focusOn: "Frontend web development",
+  technologiesAndTools: ["Ruby", "Ruby on Rails", "HTML", "CSS", "JavaScript", "Bootstrap", "Figma"],
+  currently: "Learning React",
+  seekingBestTeam: "Where I can share my continuous learning",
+  personalQualities: "I consider myself highly committed, patient, and empathetic. I believe in collaborative work and continuous improvement."
+};
+```
+
 
 
 <!--
 **Marianto38/Marianto38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+- 👩‍💻 Frontend Developer
+- 🌱 Currently learning React
+- 🔭 Looking for the best team to work
+- 🤗 A committed, patient and empathetic person
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -80,4 +96,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-[![Linkedin Badge](https://img.shields.io/badge/-mariantonieta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariaantonietapereira/)](https://www.linkedin.com/in/mariaantonietapereira/)
+
+<h2 align="left"> 📲 Contact To Me: </h2>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariaantonietapereira/)](https://www.linkedin.com/in/mariaantonietapereira/)

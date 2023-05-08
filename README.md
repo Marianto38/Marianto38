@@ -6,7 +6,7 @@
 const aboutMe = {
   iAm: "Fullstack Web Developer",
   focusOn: "Frontend web development",
-  technologiesAndTools: ["Ruby", "Ruby on Rails", "HTML", "CSS", "JavaScript", "Bootstrap", "Figma"],
+  technologiesAndTools: ["Ruby", "Ruby on Rails", "React", "JavaScript", "HTML", "CSS", "SASS", "Bootstrap", "Figma"],
   currently: "Learning React",
   seekingBestTeam: "Where I can share my continuous learning",
   personalQualities: "I consider myself highly committed, patient, and empathetic. I believe in collaborative work and continuous improvement."
@@ -49,6 +49,12 @@ Here are some ideas to get you started:
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYn8qF_0j9RB9yJBoJ62s0Z29wfGeTWw4l9Q&usqp=CAU" width="48" height="48" alt="RUBY" />
       </a>
       <br>RAILS
+    </td>
+     <td align="center" width="96">
+      <a href="">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLYrekHSLOUMi2z7XqxThzeyXERY-ZqLnBHA&usqp=CAU" width="48" height="48" alt="RUBY" />
+      </a>
+      <br>REACT
     </td>
        <td align="center" width="96">
       <a href="">
@@ -99,3 +105,8 @@ Here are some ideas to get you started:
 <h2 align="left"> 📲 Contact To Me: </h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariaantonietapereira/)](https://www.linkedin.com/in/mariaantonietapereira/)
+
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Marianto38&show_icons=true&count_private=true" alt="Marianto38" />

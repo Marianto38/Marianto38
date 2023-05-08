@@ -52,7 +52,7 @@ Here are some ideas to get you started:
     </td>
      <td align="center" width="96">
       <a href="">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLYrekHSLOUMi2z7XqxThzeyXERY-ZqLnBHA&usqp=CAU" width="48" height="48" alt="RUBY" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZU7ROY1McY6_DGlhueA-uyViRSxeSon81hw&usqp=CAU" width="48" height="48" alt="REACT" />
       </a>
       <br>REACT
     </td>

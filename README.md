@@ -107,6 +107,8 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariaantonietapereira/)](https://www.linkedin.com/in/mariaantonietapereira/)
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=Marianto38&show_icons=true&theme=dracula&hide=stars,issues" alt="Marianto38" />
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Marianto38&show_icons=true&count_private=true" alt="Marianto38" />
+![GitHub last commit](https://img.shields.io/github/last-commit/Marianto38/Marianto38)
+![pv](https://pageview.vercel.app/?github_user=Marianto38)
